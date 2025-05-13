@@ -21,7 +21,7 @@
       <item>MODEL:Pixel 6</item>
       <item>PRODUCT:oriole_beta</item>
       <item>DEVICE:oriole</item>
-      <item>FINGERPRINT:google/oriole_beta/oriole:16/BP22.250221.015/13278879:user/release-keys</item>
-      <item>VERSION.SECURITY_PATCH:2025-03-05</item>
+      <item>FINGERPRINT:google/oriole_beta/oriole:16/BP22.250325.007/13352765:user/release-keys</item>
+      <item>VERSION.SECURITY_PATCH:2025-04-05</item>
     </string-array>
 </resources>
